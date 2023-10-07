@@ -1,2 +1,1 @@
-# SwiftQuizApp
-Simple Quiz App
+# ios101-project3-trivia-starter
